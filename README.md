@@ -1,6 +1,6 @@
 Hello! We're working hard on a couple of projects—including a new iOS game and our new website—but they're not quite ready to share.
 
-We can't wait to show you our new game. We've loved creating and playtesting it so far, and we hope you'll like it too! But before it's finished, we still need to cross off a few items from the checklist.
+We can't wait to show you our new game. We've loved coding and playtesting it so far, and we hope you'll like it too! But before it's finished, we still need to cross off a few items from the checklist.
 
 When the game is ready, we'll update this page and share all the details, along with an App Store link and a FAQ on how to play.
 
